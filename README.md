@@ -24,4 +24,4 @@
 - 성향 매칭 점수 기반 정렬 기능 구현
 
 ## 사용스킬
-`Spring Boot`, `MySQL`, ÀWS S3`
+`Spring Boot`, `MySQL`, `AWS S3`
