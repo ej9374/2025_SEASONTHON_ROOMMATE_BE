@@ -46,5 +46,28 @@
 4. 모집글 지원 및 수락
     - 유저가 희망 모집글 지원 / 지원 취소 가능
     - 모집자는 신청자 목록 조회 후 수락 및 거절
+  
+## 발표자료
+<img width="1510" height="848" alt="Image" src="https://github.com/user-attachments/assets/8b951b7a-2635-456b-805f-c3ba836c1646" />
+
+<img width="1508" height="848" alt="Image" src="https://github.com/user-attachments/assets/cc996c35-5a54-428c-b181-fff739f98bd3" />
+
+<img width="1512" height="850" alt="Image" src="https://github.com/user-attachments/assets/424ed6b4-b5cb-41e9-ab5d-baac969792d7" />
+
+<img width="1511" height="849" alt="Image" src="https://github.com/user-attachments/assets/6ca2c0e5-01c5-407c-a045-e9313253060e" />
+
+<img width="1507" height="848" alt="Image" src="https://github.com/user-attachments/assets/3eaea7a0-b99a-4723-a136-ed825f9dc70a" />
+
+<img width="1512" height="850" alt="Image" src="https://github.com/user-attachments/assets/0a8d98b3-2fb2-4ccf-84cf-4caf1550dce1" />
+
+<img width="1511" height="846" alt="Image" src="https://github.com/user-attachments/assets/0e78a09d-8de8-4764-ad87-0f1540a7ec61" />
+
+<img width="1509" height="849" alt="Image" src="https://github.com/user-attachments/assets/8be2d5af-a953-41c3-acfa-2ebb41491c87" />
+
+<img width="1511" height="850" alt="Image" src="https://github.com/user-attachments/assets/f226a281-cc01-4ab3-9e47-aa2a13056fd6" />
+
+<img width="1512" height="849" alt="Image" src="https://github.com/user-attachments/assets/206f96c0-c8ac-412a-9f92-33403a8fb59d" />
+
+<img width="1510" height="846" alt="Image" src="https://github.com/user-attachments/assets/c1e9a14a-8a4b-412f-8e19-8c1724893cd8" />
    
 
